@@ -1,4 +1,4 @@
-<h1>recipes-app-project 🍲</h1>
+<h1>Recipes App Project 🍲</h1>
 
 Nesse projeto, a principal tarefa da minha equipe de desenvolvimento foi desenvolver um aplicativo de receitas utilizando as tecnologias mais modernas do ecossistema React: Hooks e Context API. O objetivo era criar uma plataforma onde os usuários pudessem visualizar, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas.
 
